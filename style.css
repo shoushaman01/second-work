@@ -1,0 +1,38 @@
+body {
+    color: #082b48;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.5;  
+}
+
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.top {
+    background-image:url(../img/main-vsual-nontitle.png);
+    background-size: cover;
+    }
+
+.course {
+    background-color: #e3fcf4;
+}
+
+.btn { 
+    padding: 20px 60px; 
+    color:white ; 
+    font-size:24px; 
+    font-weight: bold; 
+    border-radius: 4px; 
+    border:none; } 
+    
+.btn-register { 
+    background-color: #ec6d64; 
+    display: block; 
+    margin:auto; }
+    
+.btn:hover { 
+    opacity:0.7; cursor: pointer; 
+    color:white;
+    }
